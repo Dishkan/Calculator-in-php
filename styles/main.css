@@ -1,0 +1,42 @@
+body {
+
+}
+.n1 {
+  background-color: #A9E2F3;
+  border: 3px solid #0174DF;
+  height: 24px;
+  width: 200px;
+   font-size: 20px;
+ font-family: tahoma;
+}
+
+.n2 {
+    background-color: #A9E2F3;
+  border: 3px solid #0174DF;
+  height: 24px;
+  width: 200px;
+   font-size: 20px;
+ font-family: tahoma;
+} 
+
+.kn {
+ margin-top: 6px;
+ color: white;
+ background-color: #000;
+ padding: 6px 10px;
+ font-weight: bold;
+}
+
+.kn:hover {
+ color: black;
+ background-color: #00FF00;
+ padding: 6px 10px;
+ font-weight: bold;
+}
+
+.selec {
+  background: #FFC0CB;
+  border: 3px solid #0174DF;
+  height: 25px;
+  width: 44px;
+}
